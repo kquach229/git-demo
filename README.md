@@ -12,7 +12,7 @@ Steps to setup git in project
 
 1. Initialize git - git init
 2. Add the files to staging - git add .
-3. Commit the changes with message - git commit -m "<message>"
+3. Commit the changes with message - git commit -m "...message"
 4. Push the changes on to the local repo - git push
 
 Popular git commands
@@ -20,7 +20,7 @@ Popular git commands
 - Initialize git - git init
 - Tell us the status of the working directory - git status
 - Adds all the files in the directory to staging - git add .
-- Commit changes - git commit -m "<description>"
+- Commit changes - git commit -m "...message"
 - See log history of all changes/commits - git log
 - Add more details and description about the commit than the above method of committing. After activating, press "i" to start editing and "esc" to exit out editing. You can press ":wq" to save changes - git commit
 - Show the git changes - git show
